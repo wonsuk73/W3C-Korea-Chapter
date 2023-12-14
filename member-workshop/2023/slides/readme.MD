@@ -1,4 +1,4 @@
-# 2023 워크샵 발표자료
+# 2023년 W3C 대한민국 워크샵 발표자료
 ### [1.Introduction to W3C Korea Office (Seungyun Lee, Manager of W3C Korea Office)](https://github.com/wonsuk73/W3C-Korea-Chapter/blob/master/member-workshop/2023/slides/01.2023_%20Introduction%20to%20W3C%20Korea%20Office.pdf)
 ### [2.One year since the new legal entity (Naomi, W3C/Keio Site Manager, W3C Global Member Relations Lead)](https://github.com/wonsuk73/W3C-Korea-Chapter/blob/master/member-workshop/2023/slides/02.2023_%20One%20year%20since%20the%20new%20legal%20entity.pdf)
 ### [3.W3C AI 웹 및 TPAC 2023 동향 (ETRI, 이원석 박사)](https://github.com/wonsuk73/W3C-Korea-Chapter/blob/master/member-workshop/2023/slides/03.2023_W3C%20AI%20%E1%84%8B%E1%85%B0%E1%86%B8%20%E1%84%86%E1%85%B5%E1%86%BE%20TPAC%202023%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A3%E1%86%BC.pdf)
